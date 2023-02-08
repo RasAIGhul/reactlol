@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-//lol man please work
+//doubting sanity
 function App() {
   return (
 <div>
